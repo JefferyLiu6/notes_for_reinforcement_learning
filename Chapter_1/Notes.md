@@ -54,10 +54,6 @@
 
   - RL can learn optimal policies without explicit models or search algorithms.
 
-# Reinforcement Learning Overview
-
-This repository provides an overview of Reinforcement Learning (RL), highlighting its focus on goal-directed learning, its key methodologies, and a brief history of its development.
-
 ## 1.6 Summary
 
 - **Goal-Directed Learning:**  
