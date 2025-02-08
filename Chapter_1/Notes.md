@@ -1,4 +1,43 @@
-# Chapter 1: Introduction to Reinforcement Learning  
+# Chapter 1: Introduction to Reinforcement Learning
+
+## Table of Contents
+
+1. [Learning Objectives](#learning-objectives)
+2. [1.1 What is Reinforcement Learning?](#11-what-is-reinforcement-learning)
+   - Key Characteristics
+   - Comparison with Other ML Paradigms
+3. [1.2 Core Elements of RL](#12-core-elements-of-rl)
+   - Policy
+   - Reward Signal
+   - Value Function
+   - Model (Optional)
+4. [1.3 Key Challenges](#13-key-challenges)
+   - Exploration vs. Exploitation
+   - Delayed Consequences
+   - State Representation
+5. [1.4 Example: Tic-Tac-Toe Agent](#14-example-tic-tac-toe-agent)
+   - Approach
+     - Value Table
+     - Learning Rule (Temporal-Difference Learning)
+     - Exploration Strategy
+   - Key Insight
+6. [1.6 Summary](#16-summary)
+   - Goal-Directed Learning
+   - Combination of Techniques
+   - Incremental Updates & Value Functions
+7. [1.7 Early History of Reinforcement Learning](#17-early-history-of-reinforcement-learning)
+   - Key Milestones
+     - 1950s: Dynamic Programming & MDPs
+     - 1980s: Neural Networks & TD-Gammon
+     - 1990s: Q-Learning & Temporal-Difference Methods
+   - Influential Figures
+     - Richard Bellman
+     - Chris Watkins
+     - Andrew Barto & Richard Sutton
+   - Further Resources
+
+---
+
 **Learning Objectives**  
 - Define reinforcement learning (RL) and distinguish it from other machine learning paradigms.  
 - Explain the key elements of RL: **policy**, **reward signal**, **value function**, and **model**.  
